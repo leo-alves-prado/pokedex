@@ -1,0 +1,242 @@
+.logo {
+    width: 300px;
+    height: auto;
+}
+
+.oi {
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    border: 10px black solid;
+}
+
+
+.pokemon-img {
+    width: 100%;
+    height: auto;
+}
+
+
+.card {
+    float: left;
+    position: relative;
+    width: 200px;
+    height: 280px;
+    left: 5%;
+    border: 8px solid #000;
+    border-radius:10px ;
+    margin: 10px;
+}
+
+.info-card {
+    position: absolute;
+    bottom: 0;
+    left: -1px;
+    background-color: rgb(255, 0, 0);
+    color: #ffffff;
+    padding: 0px;
+    width: 100%;
+    text-align: center;
+    border: 1px solid #000;
+    font-weight: bold;
+    -webkit-text-stroke: 0.3px black;
+}
+
+.grass {
+    background-color: green;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px green solid;
+}
+
+.poison {
+    background-color: purple;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px purple solid;
+}
+
+.fire {
+    background-color: rgb(255, 81, 0);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px rgb(255, 81, 0) solid;
+}
+
+.flying {
+    background-color: #5c8b8d;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px #5c8b8d solid;
+}
+
+.water {
+    background-color: blue;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px blue solid;
+}
+
+.bug {
+    background-color: rgb(114, 165, 37);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px rgb(114, 165, 37) solid;
+}
+
+.normal {
+    background-color: silver;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px silver solid;
+}
+
+.eletric {
+    background-color: rgb(216, 216, 0);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px rgb(216, 216, 0) solid;
+}
+
+.ground {
+    background-color: #998543;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px #998543 solid;
+}
+
+.fairy{
+    background-color: rgb(255, 169, 184);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px rgb(255, 169, 184) solid;
+}
+.fighting{
+    background-color: brown;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px brown solid;
+}
+.psychic{
+    background-color: rgb(255, 50, 118);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px rgb(255, 50, 118) solid;
+}
+.rock{
+    background-color: #8f7111;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px #8f7111 solid;
+}
+.steel{
+    background-color: #255052;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px #255052 solid;
+}
+.ice{
+    background-color: rgb(0, 233, 233);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px rgb(0, 233, 233) solid;
+}
+.ghost{
+    background-color: rgb(114, 80, 114);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px rgb(114, 80, 114) solid;
+}
+.dragon{
+    background-color: rgb(107, 78, 141);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px rgb(107, 78, 141) solid;
+}
+.dark{
+    background-color: rgb(34, 30, 30);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px rgb(34, 30, 30) solid;
+}
+
+p {
+    font-family: 'Pokemon Hollow', sans-serif;
+    font-family: 'Pokemon Solid', sans-serif;
+    font-size: 15px;
+}
+.x{
+    
+    font-family: 'Pokemon Hollow', sans-serif;
+    font-family: 'Pokemon Solid', sans-serif;
+    color: #ffffff;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    border: black solid 10px;
+    background-color: red;
+}
+.x p{
+    -webkit-text-stroke: 1px black;
+    font-size:40px;
+    padding: 5px 80px ;
+    border-radius: 10px;
+    overflow: hidden;
+    border: solid black 3px;
+    display: inline-block;
+    font-weight: bold;
+}
+.grassT {
+    background-color: green;
+}
+.poisonT {
+    background-color: purple;
+}
+.fireT {
+    background-color: rgb(255, 81, 0);
+}
+.flyingT {
+    background-color: #5c8b8d;
+}
+.waterT {
+    background-color: blue;
+}
+.bugT {
+    background-color: rgb(114, 165, 37);
+}
+.normalT {
+    background-color: silver;
+}
+.eletricT {
+    background-color: rgb(216, 216, 0);
+}
+.groundT {
+    background-color: #998543;
+}
+.fairyT{
+    background-color: rgb(255, 169, 184);
+}
+.fightingT{
+    background-color: brown;
+}
+.psychicT{
+    background-color: rgb(255, 50, 118);
+}
+.rockT{
+    background-color: #8f7111;
+}
+.steelT{
+    background-color: #255052;
+}
+.iceT{
+    background-color: rgb(0, 233, 233);
+}
+.ghostT{
+    background-color: rgb(46, 29, 46);
+}
+.dragonT{
+    background-color: rgb(107, 78, 141);
+}
+.darkT{
+    background-color: rgb(34, 30, 30);
+}
